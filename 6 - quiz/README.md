@@ -1,3 +1,3 @@
-# Desenho
+# Quiz
 
 ![Screenshot](img_demostrativa.png)
